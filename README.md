@@ -13,4 +13,8 @@ El audio se irá reproduciendo como una canción en un Karaoke, mostrando los su
 - En la práctica para memorización de palabras, se mostrarán palabras aleatorias y su significado en menos de un segundo.
 - En este mismo juego se puede pedir que el usuario forme una oración con esta palabra o grupo de palabras.
 
-Este aplicativo está hecho haciendo uso de la librería React
+Este aplicativo está hecho haciendo uso de la librería React, alojado en Vercel.
+
+El link hacia el proyecto está en: [https://english-app.luismunoz.dev](https://english-app.luismunoz.dev)
+
+Espero te sea de mucha utilidad.
